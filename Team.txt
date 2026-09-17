@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Said
-=======
 Alexa
->>>>>>> 9bd4da41c0ee4f1e2b77393c1cb7e5dc66e095c9
+
